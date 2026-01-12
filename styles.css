@@ -17,7 +17,7 @@
         body {
             line-height: 1.6;
             color: var(--dark);
-            background-color: #fff;
+            background-color: #b8d7f2;
         }
 
         .container {
@@ -412,3 +412,4 @@
             }
         }
     </style>
+
